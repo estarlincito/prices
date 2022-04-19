@@ -1,0 +1,43 @@
+{
+    
+    "windows":[
+        {"type": "",        "price": ""},
+        {"type": "Instalación del Windows",        "price": "RD$3,500.00*"},
+        {"type": "Instalación del office",         "price": "RD$1,500.00*"},
+        {"type": "Respaldo de información",        "price": "RD$1,500.00*"},
+        {"type": "Drivers",                        "price": "RD$1,000.00*"},
+        {"type": "Mantenimiento PC",               "price": "RD$2,700.00*"},
+        {"type": "Instalación Impresora",          "price": "RD$1,700.00*"},
+        {"type": "Cambio + Configuración PC",      "price": "RD$5,700.00*"}
+    ],
+
+    "red":[
+        {"type": "",        "price": ""},
+        {"type": "Configuración Router",           "price": "RD$1,200.00*"}
+    ],
+
+    "mac":[
+        {"type": "",        "price": ""},
+        {"type": "Instalación del OS",             "price": "RD$3,500.00*"},
+        {"type": "Instalación del office",         "price": "RD$1,500.00*"},
+        {"type": "Respaldo de información",        "price": "RD$1,500.00*"},
+        {"type": "Drivers",                        "price": "RD$1,000.00*"},
+        {"type": "Mantenimiento PC",               "price": "RD$2,700.00*"},
+        {"type": "Instalación Impresora",          "price": "RD$1,700.00*"},
+        {"type": "Cambio + Configuración PC",      "price": "RD$5,700.00*"}
+    ],
+
+    "impresoraFiscal":[
+        {"type": "",        "price": ""},
+        {"type": "Fecha y Hora",                    "price": "RD$1,000.00*"},
+        {"type": "Error documentó cancelado",       "price": "RD$1,500.00*"}
+    ],
+
+    "diseñoWeb":[
+        {"type": "",        "price": ""},
+        {"type": "Web corporativa ",                "price": "RD$32,000.00*"},
+        {"type": "Landing page",                    "price": "RD$20,000.00*"},
+        {"type": "Blog",                            "price": "RD$42,000.00*"},
+        {"type": "Shop",                            "price": "RD$78,000.00*"}
+    ]
+}
